@@ -1,6 +1,16 @@
 # Table of contents
 
-* [Coming Soon...](README.md)
+* [Juiced Development](README.md)
+  * [Founding Members](juiced-development/founding-members.md)
+  * [Mission Statement](juiced-development/mission-statement.md)
+  * [Code of Conduct](juiced-development/code-of-conduct.md)
+
+## Learning Development
+
+* [Web3 Development Intro](learning-development/web3-development-intro.md)
+
+***
+
 * [Computer Science](computer-science.md)
 * [Security](security.md)
 * [Rust](rust.md)
