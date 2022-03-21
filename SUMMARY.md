@@ -3,4 +3,6 @@
 * [Coming Soon...](README.md)
 * [Mango Heroes](mango-heroes.md)
 * [Computer Science](computer-science.md)
-* [security](security.md)
+* [Security](security.md)
+* [Rust](rust.md)
+* [UI/UX](ui-ux.md)
