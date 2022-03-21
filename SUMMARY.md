@@ -26,3 +26,7 @@
 
 * [Project B](projects/project-b.md)
 * [Mango Heroes](projects/mango-heroes.md)
+
+## Resources
+
+* [Dev Environments](resources/Dev-Environment.md)
